@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Jing's Blog]]></title>
+  <link href="http://emmyji.github.io/atom.xml" rel="self"/>
+  <link href="http://emmyji.github.io/"/>
+  <updated>2017-04-20T17:43:12+08:00</updated>
+  <id>http://emmyji.github.io/</id>
+  <author>
+    <name><![CDATA[Emmy]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[开博客第一篇]]></title>
+    <link href="http://emmyji.github.io/blog/2017/04/20/first-blog/"/>
+    <updated>2017-04-20T15:23:44+08:00</updated>
+    <id>http://emmyji.github.io/blog/2017/04/20/first-blog</id>
+    <content type="html"><![CDATA[<p>乖，要听话</p>
+
+<pre><code>爸爸
+</code></pre>
+]]></content>
+  </entry>
+  
+</feed>
